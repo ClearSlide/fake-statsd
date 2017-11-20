@@ -1,2 +1,2 @@
 # fake-statsd
-Simple ruby script allowing the inspections of statsd packets
+Simple ruby script allowing the inspection of statsd packets
